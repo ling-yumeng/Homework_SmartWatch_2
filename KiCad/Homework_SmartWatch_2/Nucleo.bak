@@ -39,7 +39,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "file:///mnt/main_data/home/ff-c109/source/Homework_SmartWatch_2/KiCad/Homework_SmartWatch_2/ref/um1724-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf"
+		(property "Datasheet" "./ref/um1724-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf"
 			(at -17.78 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
