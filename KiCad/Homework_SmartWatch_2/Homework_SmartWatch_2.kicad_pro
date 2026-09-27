@@ -485,10 +485,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "Flash"
+      "Flash",
+      "Nucleo"
     ],
     "pinned_symbol_libs": [
-      "Flash"
+      "Flash",
+      "Nucleo"
     ]
   },
   "meta": {
